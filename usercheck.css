@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("login.jpeg");
+    background-size: auto;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.f1{
+    width: 320px;
+    height: 420px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
